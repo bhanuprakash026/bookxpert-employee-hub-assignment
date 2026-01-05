@@ -3,7 +3,7 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { Plus, Printer } from 'lucide-react';
 import { format } from 'date-fns';
 import { employeeService } from '@/services/employeeService';
-import { Employee, EmployeeFilters, EmployeeFormData } from '@/types/employee';
+import type { Employee, EmployeeFilters, EmployeeFormData } from '@/types/employee';
 import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
 import EmployeeTable from '@/components/employees/EmployeeTable';
