@@ -16,7 +16,7 @@
       "dateOfBirth": "1992-08-22",
       "profileImage": "",
       "state": "Gujarat",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "3",
@@ -43,24 +43,6 @@
       "dateOfBirth": "1985-07-18",
       "profileImage": "",
       "state": "Punjab",
-      "isActive": true
-    },
-    {
-      "id": "d97d",
-      "fullName": "Bhanu Prakash Tankasala",
-      "gender": "Male",
-      "dateOfBirth": "2000-09-26",
-      "profileImage": "",
-      "state": "Telangana",
-      "isActive": true
-    },
-    {
-      "id": "5773",
-      "fullName": "Laxmi Kanth Tankasala",
-      "gender": "Male",
-      "dateOfBirth": "2003-12-31",
-      "profileImage": "",
-      "state": "Telangana",
       "isActive": true
     }
   ],
