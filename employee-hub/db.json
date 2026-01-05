@@ -1,0 +1,75 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": "Rahul Sharma",
+      "gender": "Male",
+      "dateOfBirth": "1990-05-15",
+      "profileImage": "",
+      "state": "Maharashtra",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "fullName": "Priya Patel",
+      "gender": "Female",
+      "dateOfBirth": "1992-08-22",
+      "profileImage": "",
+      "state": "Gujarat",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "fullName": "Amit Kumar",
+      "gender": "Male",
+      "dateOfBirth": "1988-03-10",
+      "profileImage": "",
+      "state": "Delhi",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "fullName": "Sneha Reddy",
+      "gender": "Female",
+      "dateOfBirth": "1995-11-30",
+      "profileImage": "",
+      "state": "Karnataka",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "fullName": "Vikram Singh",
+      "gender": "Male",
+      "dateOfBirth": "1985-07-18",
+      "profileImage": "",
+      "state": "Punjab",
+      "isActive": true
+    },
+    {
+      "id": "d97d",
+      "fullName": "Bhanu Prakash Tankasala",
+      "gender": "Male",
+      "dateOfBirth": "2000-09-26",
+      "profileImage": "",
+      "state": "Telangana",
+      "isActive": true
+    },
+    {
+      "id": "5773",
+      "fullName": "Laxmi Kanth Tankasala",
+      "gender": "Male",
+      "dateOfBirth": "2003-12-31",
+      "profileImage": "",
+      "state": "Telangana",
+      "isActive": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@company.com",
+      "password": "password123",
+      "name": "Admin User"
+    }
+  ]
+}
